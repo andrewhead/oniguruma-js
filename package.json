@@ -1,0 +1,23 @@
+{
+  "bugs": {
+    "url": "https://github.com/tenbits/oniguruma-js/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "oniguruma regular expression library for browsers and nodejs",
+  "devDependencies": {
+    "atma": "latest"
+  },
+  "homepage": "https://github.com/tenbits/oniguruma-js#readme",
+  "licenses": "MIT",
+  "main": "./lib/oniguruma.js",
+  "name": "oniguruma-js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenbits/oniguruma-js.git"
+  },
+  "scripts": {
+    "test": "atma test"
+  },
+  "version": "0.1.1"
+}
